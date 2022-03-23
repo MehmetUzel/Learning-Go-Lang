@@ -1,0 +1,9 @@
+cmd 
+
+go
+
+go run tutorial.go
+
+go build tutorial.go
+
+.\tutorial.exe
